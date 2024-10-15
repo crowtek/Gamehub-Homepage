@@ -2,18 +2,15 @@
 
 A simple web app that displays a collection of games with information about each game, including its rating and description. This project is designed to provide an easy way to browse games and see relevant details all in one place.
 
-## Project Overview
+## Live Demo
 
-Game Hub is a web app built with **React** and **Next.js**, allowing users to explore a wide variety of games. Each game is presented with detailed information such as the title, description, rating, and more.
+Check out the live version of the project deployed on Vercel:  
+[Game Hub Live](https://game-hub-lilac-three.vercel.app)
 
 ## Screenshot
 
 ![Game Hub Screenshot](Screenshot.png)
 
-## Live Demo
-
-Check out the live version of the project deployed on Vercel:  
-[Game Hub Live](https://game-hub-lilac-three.vercel.app)
 
 ## Features
 
